@@ -1,4 +1,5 @@
-# Fabric Example Mod
+# NinerCraft
+**A UNC Charlotte themed minecraft mod**
 
 ## Setup
 
