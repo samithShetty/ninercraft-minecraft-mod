@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "#N#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_block"
+        },
+        "E": {
+            "item": "testmod:niner_crest"
+        },
+        "N": {
+            "item": "minecraft:netherite_pickaxe"
+        }
+    },
+    "result": {
+        "item": "testmod:niner_pick",
+        "count": 1
+    }
+}
